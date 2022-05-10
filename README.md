@@ -17,4 +17,4 @@
 > Purple --- y\_ = (1.03640257) x + (-3.3768736616702313)  
 > Inter ( 69.9999172, 69.1712204 )
 
-![result](./assets/result.png)
+![result](assets/result.png)
